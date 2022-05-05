@@ -5,6 +5,15 @@
     font-style: normal;
 }
 
+.day {
+    text-align: center;
+}
+
+.container-fluid {
+    background-color: gray;
+    border: 1px solid;
+}
+
 body{
     font-family: 'HallymMjo-Regular'
 }
