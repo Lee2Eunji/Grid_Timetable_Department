@@ -18,3 +18,17 @@ body{
 div-card{
     float: right;
 }
+
+.btn {
+    background-color: pink;
+    color: purple;
+}
+
+.card {
+    background-color: plum;
+}
+
+.container-fluid {
+    background-color: palevioletred;
+    border: 1px solid;
+}
